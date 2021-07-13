@@ -262,26 +262,42 @@ c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corri
 
 ![image](https://user-images.githubusercontent.com/84357979/125404895-c8d84a80-e37c-11eb-8b04-9a3082bb5fc3.png)
 
+Vs= IR= 3*6 = 18 V+20 V= 38 V
+
 3. Vea el circuito de la figura 8-66:
 a. Encuentre la corriente I3.
 b. Determine los voltajes VS y V1.
 
 ![image](https://user-images.githubusercontent.com/84357979/125405141-03da7e00-e37d-11eb-9072-bff02c0e14a3.png)
 
+![ejercicio3](https://user-images.githubusercontent.com/84357979/125409458-882f0000-e381-11eb-9690-9c439d39bc79.png)
+
+
 5. Para el circuito de la figura 8-68 encuentre las corrientes I1 e I2.
 
 ![image](https://user-images.githubusercontent.com/84357979/125405176-0b9a2280-e37d-11eb-9207-ee95b2b5f3eb.png)
 
+
+![ejercicio5](https://user-images.githubusercontent.com/84357979/125409602-a98fec00-e381-11eb-8874-802041232def.png)
+
 7. Verifique que la potencia suministrada por las fuentes es igual a la suma de
 las potencias disipadas por los resistores en el circuito de la figura 8-68.
 
+![ejercicio7](https://user-images.githubusercontent.com/84357979/125409759-d6440380-e381-11eb-9ecf-c859e7c8cca5.png)
+
+
 9. Convierta cada fuente de voltaje de la figura 8-70 en su fuente de corriente equivalente.
+
+![ejercicio9](https://user-images.githubusercontent.com/84357979/125409844-efe54b00-e381-11eb-9503-e24b944babd1.png)
+
 
 11. Vea el circuito de la figura 8-72:
 a. Encuentre la corriente a través del resistor de carga con la regla del divisor de corriente. 
 b. Convierta la fuente de corriente en su fuente de voltaje equivalente y determine, otra vez, la corriente a través de la carga.
 
 ![image](https://user-images.githubusercontent.com/84357979/125405261-27052d80-e37d-11eb-8fc1-61d993c01458.png)
+
+![ejercicio11](https://user-images.githubusercontent.com/84357979/125409974-0be8ec80-e382-11eb-8e12-5b3bd8140ee6.png)
 
 
 13. Vea el circuito de la figura 8-74:
@@ -291,21 +307,36 @@ c. Determine el voltaje Vab.
 
 ![image](https://user-images.githubusercontent.com/84357979/125405346-400dde80-e37d-11eb-9b30-5bf6f64e0f3a.png)
 
+![ejercicio13](https://user-images.githubusercontent.com/84357979/125410125-33d85000-e382-11eb-9b7d-79fe8d8dbe29.png)
+
+
 15. Encuentre el voltaje V2 y la corriente I1 para el circuito de la figura 8-76.
 
 ![image](https://user-images.githubusercontent.com/84357979/125405429-59168f80-e37d-11eb-9de5-6c2568b35e0d.png)
+
+![ejercicio15](https://user-images.githubusercontent.com/84357979/125410220-4f435b00-e382-11eb-8f45-66949dc02afe.png)
 
 17. Para el circuito de la figura 8-78 convierta la fuente de corriente y el resistor de 2.4 kohm en una fuente de voltaje y calcule el voltaje Vab y la corriente I3.
 
 ![image](https://user-images.githubusercontent.com/84357979/125405453-616eca80-e37d-11eb-914a-4a02c5e86bfd.png)
 
+![ejercicio17](https://user-images.githubusercontent.com/84357979/125410363-71d57400-e382-11eb-913a-575a89537873.png)
+
 19. Escriba las ecuaciones de corriente de rama para que el circuito de la figura 8-79 y encuentre las corrientes de rama mediante determinantes.
 
 ![image](https://user-images.githubusercontent.com/84357979/125405490-69c70580-e37d-11eb-9734-1c16da89cfa8.png)
 
+![ejercicio19-1](https://user-images.githubusercontent.com/84357979/125410497-8b76bb80-e382-11eb-8dc1-6f58fcff10f7.png)
+![ejercicio19-2](https://user-images.githubusercontent.com/84357979/125410585-a6493000-e382-11eb-8107-00fd2644534a.png)
+
+
 21) Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-81 y encuentre la corriente I2.
 
 ![image](https://user-images.githubusercontent.com/84357979/125405515-7186aa00-e37d-11eb-80e5-6ba348ba7bfc.png)
+
+![ejercicio21-1](https://user-images.githubusercontent.com/84357979/125410675-c37dfe80-e382-11eb-93c6-902991742843.png)
+![ejercicio21-2](https://user-images.githubusercontent.com/84357979/125410763-da245580-e382-11eb-963c-3ee859ab44cf.png)
+
 
 23) Vea el circuito de la figura 8-83:
 a. Escriba las ecuaciones de corriente de rama
@@ -314,7 +345,10 @@ c. Determine el voltaje de Vab
 
 ![image](https://user-images.githubusercontent.com/84357979/125405549-79464e80-e37d-11eb-9c65-c430562d274a.png)
 
-8-5. Analisis de mallas (lazos)
+![ejercicio23](https://user-images.githubusercontent.com/84357979/125410923-0213b900-e383-11eb-9ace-8badc5610d51.png)
+
+
+**8-5. Analisis de mallas (lazos)**
 
 25. Escriba las ecuaciones de malla para el circuito que se muestra en la figura 8-79 y encuentre las corrientes de lazo.
 
