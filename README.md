@@ -203,10 +203,16 @@ b. Si R2 se ajusta para tener 2.5 kΩ ¿Cuál será el voltaje VL? Si se remuev
 
 ![Ejercicio25](https://user-images.githubusercontent.com/84357979/125391366-0384b780-e36a-11eb-9446-34b9fb1ab2a0.png)
 
+![Ejercicio27-1](https://user-images.githubusercontent.com/84357979/125391522-43e43580-e36a-11eb-8771-85a27e117be7.png)
+![Ejercicio27-2](https://user-images.githubusercontent.com/84357979/125391541-49da1680-e36a-11eb-907a-4f753c6b12a4.png)
+
+
 
 29. Si el potenciómetro de la figura 7-70 se ajusta para que R2 =200 Ω, determine los voltajes Vab y Vbc.  
 
 ![image](https://user-images.githubusercontent.com/84357979/125388517-3f694e00-e365-11eb-8283-92393b34d1bb.png)
+
+![Ejercicio29](https://user-images.githubusercontent.com/84357979/125391597-624a3100-e36a-11eb-8a59-3440a1a3799e.png)
 
 
 31. Vea el circuito d la figura 7-71:
@@ -214,6 +220,9 @@ a. Determine el intervalo del voltaje de salida (del mínimo al máximo) que se 
 b. Calcule R2 cuando VSAL =20 V.
 
 ![image](https://user-images.githubusercontent.com/84357979/125388536-4728f280-e365-11eb-96dc-78ab372f3edf.png)
+
+![Ejercicio31](https://user-images.githubusercontent.com/84357979/125391682-8279f000-e36a-11eb-942e-b8176b4ca323.png)
+
 
 33. En el circuito de la figura 7-72 calcule el voltaje de salida VSAL cuando RL = 0 Ω, 250 Ω y 500 Ω.
 
@@ -225,6 +234,11 @@ b. ¿Qué voltaje se presentará en el resistor de 750 kΩ cuando el voltímetr
 c. Calcule el efecto de carga del medidor cuando se utilice como se muestra.
 d. Si se usa el mismo voltímetro para medir el voltaje en el resistor de 200 kΩ, ¿Cuál será la lectura?    
 
+![Ejercicio33](https://user-images.githubusercontent.com/84357979/125391751-a0475500-e36a-11eb-9fdf-fa6edf6860d1.png)
+
+![Ejercicio35](https://user-images.githubusercontent.com/84357979/125391839-bf45e700-e36a-11eb-97c8-a188402e0b97.png)
+
+
 ![image](https://user-images.githubusercontent.com/84357979/125388570-54de7800-e365-11eb-82d9-cf01253e8db0.png)
 
 37. un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76.
@@ -234,8 +248,7 @@ c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corri
 
 ![image](https://user-images.githubusercontent.com/84357979/125388582-5c058600-e365-11eb-845a-cfcb830a8aa7.png)
 
-
-
+![Ejercicio37](https://user-images.githubusercontent.com/84357979/125391907-d4227a80-e36a-11eb-96d2-04e32706c7bb.png)
 
 
 
