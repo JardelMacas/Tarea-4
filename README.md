@@ -79,15 +79,21 @@ c. Verifique que la potencia suministrada al circuito es igual a la suma de las 
 ![image](https://user-images.githubusercontent.com/84357979/125388406-0c26bf00-e365-11eb-8e52-63b9bd64faa6.png)
 
 Primer Circuito Equivalente:
+
 ![image](https://user-images.githubusercontent.com/84357979/125389302-9e7b9280-e366-11eb-9411-8a1112d70008.png)
+
 ![ejercicio13-1](https://user-images.githubusercontent.com/84357979/125389371-ba7f3400-e366-11eb-8c0f-0c83b3320f34.png)
 
 Segundo Circuito Equivalente:
+
 ![image](https://user-images.githubusercontent.com/84357979/125389403-c4a13280-e366-11eb-8c06-3008ec1392e3.png)
+
 ![ejercicio13-2](https://user-images.githubusercontent.com/84357979/125389637-2792c980-e367-11eb-9e57-a061fd0901bd.png)
 
 Tercer Circuito Equivalente:
+
 ![image](https://user-images.githubusercontent.com/84357979/125389426-ca971380-e366-11eb-8e15-33bad6fbaceb.png)
+
 ![ejercicio13-3](https://user-images.githubusercontent.com/84357979/125389674-3a0d0300-e367-11eb-88b5-a10e010b686b.png)
 
 Cuarto Circuito Equivalente:
