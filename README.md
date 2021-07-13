@@ -465,9 +465,9 @@ d. Determine el voltaje en R 5.
 
 **4.VIDEO**
 
-Link del Video: https://www.youtube.com/watch?v=S7ljptPuCCI
+Link del Video: https://youtu.be/VD9fv3gpDx0
 
-[![Circuitos Eléctricos || Ejercicios Resueltos || Libro de Allan Robbins || Capítulos 1 y 2](https://img.youtube.com/vi/S7ljptPuCCI/0.jpg)](https://www.youtube.com/watch?v=S7ljptPuCCI)
+[![Circuitos Eléctricos || Ejercicios Resueltos || Libro de Allan Robbins || Capítulos 7 y 8](https://img.youtube.com/vi/VD9fv3gpDx0.jpg)](https://www.youtube.com/watch?v=VD9fv3gpDx0)
 
 **5. CONCLUSIONES**
 
