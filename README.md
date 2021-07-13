@@ -23,8 +23,10 @@ Objetivos Especificos
 
 **2.MARCO TEORICO**
 
-![]( )
-![]()
+![ResumenCap7](https://user-images.githubusercontent.com/84357979/125388682-8e16e800-e365-11eb-88e6-b35835735b61.png)
+
+![WhatsApp Image 2021-07-02 at 6 01 55 PM](https://user-images.githubusercontent.com/84357979/125388710-9cfd9a80-e365-11eb-9f93-ddb768c35dba.jpeg)
+
 
 
 
