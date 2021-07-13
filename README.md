@@ -35,10 +35,7 @@ serie y cuáles en paralelo. Escriba una expresión para la resistencia total, R
 
 ![image](https://user-images.githubusercontent.com/84357979/125387999-5d827e80-e364-11eb-8e54-afe8b6e29343.png)
 
-a) Resistencia en serie R1,R5  R2,R3 Resistencia en paralelo R4
-Rt=R1+R5+[(R2+R3)]||R4]
-b) Resistencia en paralelo R1,R2  R3,R4 
-Rt=(R1||R2)+(R3||R4)
+![Ejercicio1](https://user-images.githubusercontent.com/84357979/125388205-b3572680-e364-11eb-8fd3-f426a2eae3aa.png)
 
 
 **4.VIDEO**
