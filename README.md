@@ -146,6 +146,47 @@ Circuito B
 
 ![image](https://user-images.githubusercontent.com/84357979/125388459-22347f80-e365-11eb-8a6a-bfb5d0120af6.png)
 
+Redibujando el Circuito:
+
+![image](https://user-images.githubusercontent.com/84357979/125390606-c66bf580-e368-11eb-9374-dfccc6176f6e.png)
+
+![Ejercicio15-1](https://user-images.githubusercontent.com/84357979/125391113-86f1d900-e369-11eb-8efc-e064eefe1079.png)
+
+
+Primer Circuito Equivalente:
+
+![image](https://user-images.githubusercontent.com/84357979/125390628-d08df400-e368-11eb-8af3-699f4f2b2ed8.png)
+![Ejercicio15-2](https://user-images.githubusercontent.com/84357979/125391137-8eb17d80-e369-11eb-9f5c-2d4032dd7cf9.png)
+
+
+Segundo Circuito Equivalente:
+
+![image](https://user-images.githubusercontent.com/84357979/125390650-d84d9880-e368-11eb-84c5-7aee30ad1745.png)
+![Ejercicio15-3](https://user-images.githubusercontent.com/84357979/125391153-940ec800-e369-11eb-9e7a-e2ac29dc620e.png)
+
+Tercer Circuito Equivalente:
+
+![image](https://user-images.githubusercontent.com/84357979/125390669-df74a680-e368-11eb-98fc-d5a56886d2bc.png)
+![Ejercicio15-4](https://user-images.githubusercontent.com/84357979/125391163-996c1280-e369-11eb-9a55-7f4fd8ac8a4f.png)
+
+Cuarto Circuito Equivalente:
+
+![image](https://user-images.githubusercontent.com/84357979/125390686-e56a8780-e368-11eb-89a4-1ff0fbbcb006.png)
+![Ejercicio15-5](https://user-images.githubusercontent.com/84357979/125391172-9d983000-e369-11eb-8b8b-c7c90e838bca.png)
+
+Quinto Circuito Equivalente:
+
+![image](https://user-images.githubusercontent.com/84357979/125390693-eac7d200-e368-11eb-8cbd-51cbf9b617fb.png)
+![Ejercicio15-6](https://user-images.githubusercontent.com/84357979/125391185-a25ce400-e369-11eb-8a60-3beb3535b0b5.png)
+
+Sexto Circuito Equivalente:
+
+![image](https://user-images.githubusercontent.com/84357979/125390708-ef8c8600-e368-11eb-87ba-7951aa0674a3.png)
+
+![Ejercicio15-7](https://user-images.githubusercontent.com/84357979/125391279-ce786500-e369-11eb-81e9-a107e53364dc.png)
+
+
+
 
 7-3 Aplicaciones de los circuitos en serie-paralelo
 
