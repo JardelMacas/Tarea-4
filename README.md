@@ -42,6 +42,8 @@ serie y cuáles en paralelo. Escriba una expresión para la resistencia total, R
 3. Escriba una expresión para RT1 y RT2 para las redes de la figura 7-48.
 ![image](https://user-images.githubusercontent.com/84357979/125388262-d4b81280-e364-11eb-8e39-eb9cbd9f0ac9.png)
 
+![Ejercicio3](https://user-images.githubusercontent.com/84357979/125388876-e948da80-e365-11eb-8946-f49b08827a5b.png)
+
 5.  Las redes de resistores tienen las resistencias totales que se muestran a continuación. Dibuje un circuito que corresponda a cada expresión. 
 
 7. Determine la resistencia total para cada red de la figura 7-50. 
