@@ -201,6 +201,9 @@ b. Si R2 se ajusta para tener 2.5 kΩ ¿Cuál será el voltaje VL? Si se remuev
 
 ![image](https://user-images.githubusercontent.com/84357979/125388504-37111300-e365-11eb-9d14-e6def156c702.png)
 
+![Ejercicio25](https://user-images.githubusercontent.com/84357979/125391366-0384b780-e36a-11eb-9446-34b9fb1ab2a0.png)
+
+
 29. Si el potenciómetro de la figura 7-70 se ajusta para que R2 =200 Ω, determine los voltajes Vab y Vbc.  
 
 ![image](https://user-images.githubusercontent.com/84357979/125388517-3f694e00-e365-11eb-8283-92393b34d1bb.png)
