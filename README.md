@@ -37,6 +37,98 @@ serie y cuáles en paralelo. Escriba una expresión para la resistencia total, R
 
 ![Ejercicio1](https://user-images.githubusercontent.com/84357979/125388205-b3572680-e364-11eb-8fd3-f426a2eae3aa.png)
 
+3. Escriba una expresión para RT1 y RT2 para las redes de la figura 7-48.
+![image](https://user-images.githubusercontent.com/84357979/125388262-d4b81280-e364-11eb-8e39-eb9cbd9f0ac9.png)
+
+
+5. Las redes de resistores tienen las resistencias totales que se muestran a continuación. Dibuje un circuito que corresponda a cada expresión. 
+
+7. Determine la resistencia total para cada red de la figura 7-50. 
+
+![image](https://user-images.githubusercontent.com/84357979/125388339-f3b6a480-e364-11eb-972e-eb8e966b3fce.png)
+
+9. Calcule la resistencia Rab y Rcd en el circuito de la figura 7-52.
+
+![image](https://user-images.githubusercontent.com/84357979/125388362-fca77600-e364-11eb-8736-9819037f606c.png)
+
+11. Vea el circuito de la figura 7-54.
+Encuentre las siguientes cantidades:
+a. RT
+b. IT, I1, I2, I3, I4
+c. Vab, Vbc.
+
+![image](https://user-images.githubusercontent.com/84357979/125388377-05984780-e365-11eb-9598-4e72aeedfca5.png)
+
+13. Vea el circuito de la figura 7-56 
+a. Encuentre las corrientes I1,I2,I3,I4,I5e I6
+b. Encuentre los voltajes V_ab y V_cd
+c. Verifique que la potencia suministrada al circuito es igual a la suma de las potencias disipadas por los resistores.
+
+![image](https://user-images.githubusercontent.com/84357979/125388406-0c26bf00-e365-11eb-8e52-63b9bd64faa6.png)
+
+
+15) Vea los circuitos de la figura 7-58:
+a) Encuentre las corrientes indicadas
+b) Encuentre el Voltaje Vab
+c) Verifique que la potencia suministrada al circuito es igual a la suma de las potencias disipadas por los resistores.
+
+Circuito A
+
+![image](https://user-images.githubusercontent.com/84357979/125388437-19dc4480-e365-11eb-98bf-544ccc0e0dc9.png)
+
+Circuito B
+
+![image](https://user-images.githubusercontent.com/84357979/125388459-22347f80-e365-11eb-8a6a-bfb5d0120af6.png)
+
+
+7-3 Aplicaciones de los circuitos en serie-paralelo
+
+25. Calcule IC y VCE para el circuito de la figura 7-67.
+
+![image](https://user-images.githubusercontent.com/84357979/125388489-2fea0500-e365-11eb-94ed-5b0b09fce432.png)
+
+7-4 Potenciómetros
+27. Vea el circuito de la figura 7-69:
+a. Determine el intervalo de voltajes que aparecerán en RL a medida que el potenciómetro varíe entre sus valores mínimo y máximo.
+b. Si R2 se ajusta para tener 2.5 kΩ ¿Cuál será el voltaje VL? Si se remueve el resistor de carga ¿Qué voltaje aparecerá entre las terminales a y b?
+
+![image](https://user-images.githubusercontent.com/84357979/125388504-37111300-e365-11eb-9d14-e6def156c702.png)
+
+29. Si el potenciómetro de la figura 7-70 se ajusta para que R2 =200 Ω, determine los voltajes Vab y Vbc.  
+
+![image](https://user-images.githubusercontent.com/84357979/125388517-3f694e00-e365-11eb-8283-92393b34d1bb.png)
+
+
+31. Vea el circuito d la figura 7-71:
+a. Determine el intervalo del voltaje de salida (del mínimo al máximo) que se espera cuando el potenciómetro se ajusta del mínimo al máximo.
+b. Calcule R2 cuando VSAL =20 V.
+
+![image](https://user-images.githubusercontent.com/84357979/125388536-4728f280-e365-11eb-96dc-78ab372f3edf.png)
+
+33. En el circuito de la figura 7-72 calcule el voltaje de salida VSAL cuando RL = 0 Ω, 250 Ω y 500 Ω.
+
+![image](https://user-images.githubusercontent.com/84357979/125388554-4db76a00-e365-11eb-9057-1448d059c4dd.png)
+
+35. Un voltímetro con una sensibilidad de S = 20 k Ω/V se usa en la escala de 10 V (con una resistencia interna total de 200 kΩ) para medir el voltaje en el resistor de 750 kΩ de la figura 7-74. El medidor indica un voltaje de 5.00 V.
+a. Determine el valor de la fuente de voltaje E. 
+b. ¿Qué voltaje se presentará en el resistor de 750 kΩ cuando el voltímetro se quite del circuito?
+c. Calcule el efecto de carga del medidor cuando se utilice como se muestra.
+d. Si se usa el mismo voltímetro para medir el voltaje en el resistor de 200 kΩ, ¿Cuál será la lectura?    
+
+![image](https://user-images.githubusercontent.com/84357979/125388570-54de7800-e365-11eb-82d9-cf01253e8db0.png)
+
+37. un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76.
+a. Explique cómo conectar de manera correcta el amperímetro para medir la corriente I1. 
+b. Determine los valores indicados cuando el amperímetro se usa para medir cada una de las corrientes que se indican en el circuito. 
+c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corrientes.
+
+![image](https://user-images.githubusercontent.com/84357979/125388582-5c058600-e365-11eb-845a-cfcb830a8aa7.png)
+
+
+
+
+
+
 
 **4.VIDEO**
 
