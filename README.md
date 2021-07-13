@@ -46,13 +46,19 @@ serie y cuáles en paralelo. Escriba una expresión para la resistencia total, R
 
 5.  Las redes de resistores tienen las resistencias totales que se muestran a continuación. Dibuje un circuito que corresponda a cada expresión. 
 
+![Ejercicio5](https://user-images.githubusercontent.com/84357979/125388987-1d240000-e366-11eb-9b89-aa2171080714.png)
+
 7. Determine la resistencia total para cada red de la figura 7-50. 
 
 ![image](https://user-images.githubusercontent.com/84357979/125388339-f3b6a480-e364-11eb-972e-eb8e966b3fce.png)
 
+![Ejercicio7](https://user-images.githubusercontent.com/84357979/125389058-36c54780-e366-11eb-8441-e295d5b5b16c.png)
+
 9. Calcule la resistencia Rab y Rcd en el circuito de la figura 7-52.
 
 ![image](https://user-images.githubusercontent.com/84357979/125388362-fca77600-e364-11eb-8736-9819037f606c.png)
+
+![Ejercicio9](https://user-images.githubusercontent.com/84357979/125389118-5197bc00-e366-11eb-823a-a617cb9959ac.png)
 
 11. Vea el circuito de la figura 7-54.
 Encuentre las siguientes cantidades:
@@ -62,12 +68,37 @@ c. Vab, Vbc.
 
 ![image](https://user-images.githubusercontent.com/84357979/125388377-05984780-e365-11eb-9598-4e72aeedfca5.png)
 
+![Ejercicio11](https://user-images.githubusercontent.com/84357979/125389197-72601180-e366-11eb-8566-4147c8b7e8cd.png)
+
+
 13. Vea el circuito de la figura 7-56 
 a. Encuentre las corrientes I1,I2,I3,I4,I5e I6
 b. Encuentre los voltajes V_ab y V_cd
 c. Verifique que la potencia suministrada al circuito es igual a la suma de las potencias disipadas por los resistores.
 
 ![image](https://user-images.githubusercontent.com/84357979/125388406-0c26bf00-e365-11eb-8e52-63b9bd64faa6.png)
+
+Primer Circuito Equivalente:
+![image](https://user-images.githubusercontent.com/84357979/125389302-9e7b9280-e366-11eb-9411-8a1112d70008.png)
+![ejercicio13-1](https://user-images.githubusercontent.com/84357979/125389371-ba7f3400-e366-11eb-8c0f-0c83b3320f34.png)
+
+Segundo Circuito Equivalente:
+![image](https://user-images.githubusercontent.com/84357979/125389403-c4a13280-e366-11eb-8c06-3008ec1392e3.png)
+![ejercicio13-2](https://user-images.githubusercontent.com/84357979/125389637-2792c980-e367-11eb-9e57-a061fd0901bd.png)
+
+Tercer Circuito Equivalente:
+![image](https://user-images.githubusercontent.com/84357979/125389426-ca971380-e366-11eb-8e15-33bad6fbaceb.png)
+![ejercicio13-3](https://user-images.githubusercontent.com/84357979/125389674-3a0d0300-e367-11eb-88b5-a10e010b686b.png)
+
+Cuarto Circuito Equivalente:
+![image](https://user-images.githubusercontent.com/84357979/125389439-d1be2180-e366-11eb-953a-2f214501c173.png)
+![ejercicio13-4](https://user-images.githubusercontent.com/84357979/125389731-4d1fd300-e367-11eb-8184-0ccab02acd26.png)
+
+Quinto Circuito Equivalente:
+![image](https://user-images.githubusercontent.com/84357979/125389450-d7b40280-e366-11eb-99a4-c56daacc1bf0.png)
+![ejercicio13-5](https://user-images.githubusercontent.com/84357979/125389806-66288400-e367-11eb-8123-de78e97cba56.png)
+
+![ejercicio13-6](https://user-images.githubusercontent.com/84357979/125389864-7c364480-e367-11eb-8e09-1aa973ee5f28.png)
 
 
 15) Vea los circuitos de la figura 7-58:
