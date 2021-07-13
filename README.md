@@ -354,44 +354,76 @@ c. Determine el voltaje de Vab
 
 ![image](https://user-images.githubusercontent.com/84357979/125405600-85321080-e37d-11eb-8cca-45eed11076da.png)
 
+![ejercicio25](https://user-images.githubusercontent.com/84357979/125411277-5f0f6f00-e383-11eb-8314-fc803986d2f8.png)
+
+
 27. Utilice el análisis de malla para encontrar la corriente I2 en el circuito de la figura 8-81.
 
 ![image](https://user-images.githubusercontent.com/84357979/125405642-8c591e80-e37d-11eb-8765-ac9ecbb83f3d.png)
+
+![ejercicio27](https://user-images.githubusercontent.com/84357979/125411396-7ea69780-e383-11eb-9cb1-d1d0db0a3d0b.png)
+
 
 29. Utilice el análisis de malla para encontrar las corrientes de lazo en el circuito de la figura 8-84. Use sus resultados para determinar I y Vab.
 
 ![image](https://user-images.githubusercontent.com/84357979/125405665-92e79600-e37d-11eb-9454-49f87d11c890.png)
 
+![ejercicio29](https://user-images.githubusercontent.com/84357979/125411545-a1d14700-e383-11eb-9353-5782e0a13125.png)
+
+
 31) Escriba las ecuaciones de malla para la red de la figura 8-86. Encuentre las corrientes de lazo con determinantes.
 
 ![image](https://user-images.githubusercontent.com/84357979/125405685-98dd7700-e37d-11eb-8462-5d7cb9e0e3e8.png)
+
+![ejercicio31-1](https://user-images.githubusercontent.com/84357979/125411826-ea890000-e383-11eb-856b-4b15aefe2f23.png)
+![ejercicio31-2](https://user-images.githubusercontent.com/84357979/125411860-f2e13b00-e383-11eb-837b-affa5bf91c4a.png)
 
 33) Escriba las ecuaciones de Nodos para el circuito de la figura 8-88. Y encuentre los voltajes en los nodos.
 
 ![image](https://user-images.githubusercontent.com/84357979/125405708-9f6bee80-e37d-11eb-9c68-2ee2cda7f606.png)
 
+![ejercicio33](https://user-images.githubusercontent.com/84357979/125411974-ca517886-476a-45a2-9142-d5b56e4d6692.png)
 
 35. Repita el problema 33 para el circuito de la figura 8-90
 
 ![image](https://user-images.githubusercontent.com/84357979/125405729-a561cf80-e37d-11eb-95ed-bac07b6ee9cd.png)
 
+![ejercicio35](https://user-images.githubusercontent.com/84357979/125412096-3471e600-e384-11eb-9b87-ec613b840db8.png)
 
 37. Escriba las ecuaciones de nodos para el circuito de la figura 8-86 y encuentre V6Ω.
 
 ![image](https://user-images.githubusercontent.com/84357979/125405754-ac88dd80-e37d-11eb-8d29-730fd29634fa.png)
 
+![ejercicio37](https://user-images.githubusercontent.com/84357979/125412286-5ec3a380-e384-11eb-98bd-668dea5bf555.png)
+
+
 39. Convierta cada una de las redes Δ de la figura 8-92 en su configuración Y equivalente.
 
 ![image](https://user-images.githubusercontent.com/84357979/125405774-b4e11880-e37d-11eb-8d7b-ef4669bb5f8a.png)
+
+![ejercicio39](https://user-images.githubusercontent.com/84357979/125412396-80bd2600-e384-11eb-987d-21b47aa229b4.png)
+
 
 41.Convierta cada una de las redes Y de la figura 8-94 en su configuración equivalente.
 
 ![image](https://user-images.githubusercontent.com/84357979/125405809-bdd1ea00-e37d-11eb-99fe-c3b2bb4b2d5c.png)
 ![image](https://user-images.githubusercontent.com/84357979/125405815-c0ccda80-e37d-11eb-974f-39ff40386441.png)
 
+![ejercicio41](https://user-images.githubusercontent.com/84357979/125412520-9f232180-e384-11eb-9661-09c3a93293fe.png)
+
+
 43.Utilice las conversiones -Y o Y-, para encontrar la corriente I para el circuito de la figura 8-96.
 
 ![image](https://user-images.githubusercontent.com/84357979/125405950-e659e400-e37d-11eb-9951-1537477595d3.png)
+
+
+![ejercicio43](https://user-images.githubusercontent.com/84357979/125412681-bf52e080-e384-11eb-9a09-0e99a0c75e2a.png)
+
+![ejercicio43](https://user-images.githubusercontent.com/84357979/125412860-b1c8319a-bdb0-4052-9595-42c28a7037fa.png)
+![ejercicio43-2](https://user-images.githubusercontent.com/84357979/125412884-1ae9d1d3-53e0-43e7-a716-df06c61d949a.png)
+![ejercicio43-3](https://user-images.githubusercontent.com/84357979/125412903-f628f680-e384-11eb-9b4b-b7cd112cb039.png)
+
+
 
 
 45.Repita el problema 43 para el circuito de la figura 8-98.
@@ -408,12 +440,29 @@ d. Determine el voltaje en R 5.
 
 ![image](https://user-images.githubusercontent.com/84357979/125405992-f5409680-e37d-11eb-92f2-69e0b4793a3b.png)
 
+![ejercicio45-1](https://user-images.githubusercontent.com/84357979/125413182-fd2a86ca-835f-48b3-a65a-7eaf8d7a7622.png)
+
+![ejercicio45-2](https://user-images.githubusercontent.com/84357979/125413209-c43db965-bf98-4af7-946c-3561d6707901.png)
+
+47.Vea el circuito puente de la figura 8-100: 
+a. ¿El puente está balanceado? Explique. 
+b. Escriba las ecuaciones de malla. 
+c. Calcule la corriente a través de R 5. 
+d. Determine el voltaje en R 5.
+
+![image](https://user-images.githubusercontent.com/84357979/125413288-16a99cb3-3def-4deb-9dbd-1a00e699f8c1.png)
+
+![ejercicio47](https://user-images.githubusercontent.com/84357979/125413424-dc0154be-6de5-4962-a017-fc572305bfbd.png)
+![ejercicio47-1](https://user-images.githubusercontent.com/84357979/125413544-fc6851b6-427e-4bb0-aeeb-b21b39a2a1a5.png)
+
 
 49.En el circuito puente de la figura 8-102 encuentre la corriente a través de cada resistor.
 
 ![image](https://user-images.githubusercontent.com/84357979/125406022-fc67a480-e37d-11eb-975d-e85f58182ccb.png)
 
+![ejercicio49-1](https://user-images.githubusercontent.com/84357979/125413722-1f56ea04-6f68-4a17-93ad-14264f05ce24.png)
 
+![ejercicio49-2](https://user-images.githubusercontent.com/84357979/125413736-395b6c44-ce96-4708-83ba-e100e57b6643.png)
 
 
 
