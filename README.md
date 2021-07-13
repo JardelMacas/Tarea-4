@@ -32,6 +32,9 @@ Objetivos Especificos
 
 **3.EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS**
 
+
+**CAPITULO 7**
+
 1. Para las redes de la figura 7-46, determine cuáles resistores y ramas están en
 serie y cuáles en paralelo. Escriba una expresión para la resistencia total, RT.
 
