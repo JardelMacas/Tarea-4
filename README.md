@@ -234,12 +234,14 @@ b. ¿Qué voltaje se presentará en el resistor de 750 kΩ cuando el voltímetr
 c. Calcule el efecto de carga del medidor cuando se utilice como se muestra.
 d. Si se usa el mismo voltímetro para medir el voltaje en el resistor de 200 kΩ, ¿Cuál será la lectura?    
 
+![image](https://user-images.githubusercontent.com/84357979/125388570-54de7800-e365-11eb-82d9-cf01253e8db0.png)
+
 ![Ejercicio33](https://user-images.githubusercontent.com/84357979/125391751-a0475500-e36a-11eb-9fdf-fa6edf6860d1.png)
 
 ![Ejercicio35](https://user-images.githubusercontent.com/84357979/125391839-bf45e700-e36a-11eb-97c8-a188402e0b97.png)
 
 
-![image](https://user-images.githubusercontent.com/84357979/125388570-54de7800-e365-11eb-82d9-cf01253e8db0.png)
+
 
 37. un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76.
 a. Explique cómo conectar de manera correcta el amperímetro para medir la corriente I1. 
