@@ -123,7 +123,9 @@ Segundo Circuito Equivalente:
 ![Ejercicio13b2](https://user-images.githubusercontent.com/84357979/125390251-2a41ee80-e368-11eb-8a1c-6bb8dea206c3.png)
 
 Tercer Circuito Equivalente:
+
 ![image](https://user-images.githubusercontent.com/84357979/125390151-fa92e680-e367-11eb-8c9a-4203009d689a.png)
+
 ![Ejercicio13b3](https://user-images.githubusercontent.com/84357979/125390292-3e85eb80-e368-11eb-94ee-a427a84087bc.png)
 
 ![Ejercicio13b4](https://user-images.githubusercontent.com/84357979/125390365-637a5e80-e368-11eb-9045-e9de918c920a.png)
