@@ -99,6 +99,7 @@ Quinto Circuito Equivalente:
 ![ejercicio13-5](https://user-images.githubusercontent.com/84357979/125389806-66288400-e367-11eb-8123-de78e97cba56.png)
 
 ![ejercicio13-6](https://user-images.githubusercontent.com/84357979/125389864-7c364480-e367-11eb-8e09-1aa973ee5f28.png)
+![ejercicio13-7](https://user-images.githubusercontent.com/84357979/125390076-d8996400-e367-11eb-9a09-a5c7ec072217.png)
 
 
 15) Vea los circuitos de la figura 7-58:
@@ -109,6 +110,24 @@ c) Verifique que la potencia suministrada al circuito es igual a la suma de las 
 Circuito A
 
 ![image](https://user-images.githubusercontent.com/84357979/125388437-19dc4480-e365-11eb-98bf-544ccc0e0dc9.png)
+
+Redibujando el Circuito:
+![image](https://user-images.githubusercontent.com/84357979/125390111-e949da00-e367-11eb-8d82-f0778be2e0e4.png)
+
+Primer Circuito Equivalente:
+![image](https://user-images.githubusercontent.com/84357979/125390128-efd85180-e367-11eb-89f2-230199e73589.png)
+![Ejercicio13b1](https://user-images.githubusercontent.com/84357979/125390205-15fdf180-e368-11eb-92bd-938f29bd43a9.png)
+
+Segundo Circuito Equivalente:
+![image](https://user-images.githubusercontent.com/84357979/125390137-f49d0580-e367-11eb-993b-eb82e8a55947.png)
+![Ejercicio13b2](https://user-images.githubusercontent.com/84357979/125390251-2a41ee80-e368-11eb-8a1c-6bb8dea206c3.png)
+
+Tercer Circuito Equivalente:
+![image](https://user-images.githubusercontent.com/84357979/125390151-fa92e680-e367-11eb-8c9a-4203009d689a.png)
+![Ejercicio13b3](https://user-images.githubusercontent.com/84357979/125390292-3e85eb80-e368-11eb-94ee-a427a84087bc.png)
+
+![Ejercicio13b4](https://user-images.githubusercontent.com/84357979/125390365-637a5e80-e368-11eb-9045-e9de918c920a.png)
+
 
 Circuito B
 
