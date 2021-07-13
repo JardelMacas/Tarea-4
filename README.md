@@ -256,6 +256,133 @@ c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corri
 ![Ejercicio37](https://user-images.githubusercontent.com/84357979/125391907-d4227a80-e36a-11eb-96d2-04e32706c7bb.png)
 
 
+**CAPITULO 8**
+
+1. Encuentre el voltaje VS para el circuito de la figura 8-64.
+
+![image](https://user-images.githubusercontent.com/84357979/125404895-c8d84a80-e37c-11eb-8b04-9a3082bb5fc3.png)
+
+3. Vea el circuito de la figura 8-66:
+a. Encuentre la corriente I3.
+b. Determine los voltajes VS y V1.
+
+![image](https://user-images.githubusercontent.com/84357979/125405141-03da7e00-e37d-11eb-9072-bff02c0e14a3.png)
+
+5. Para el circuito de la figura 8-68 encuentre las corrientes I1 e I2.
+
+![image](https://user-images.githubusercontent.com/84357979/125405176-0b9a2280-e37d-11eb-9207-ee95b2b5f3eb.png)
+
+7. Verifique que la potencia suministrada por las fuentes es igual a la suma de
+las potencias disipadas por los resistores en el circuito de la figura 8-68.
+
+9. Convierta cada fuente de voltaje de la figura 8-70 en su fuente de corriente equivalente.
+
+11. Vea el circuito de la figura 8-72:
+a. Encuentre la corriente a través del resistor de carga con la regla del divisor de corriente. 
+b. Convierta la fuente de corriente en su fuente de voltaje equivalente y determine, otra vez, la corriente a través de la carga.
+
+![image](https://user-images.githubusercontent.com/84357979/125405261-27052d80-e37d-11eb-8fc1-61d993c01458.png)
+
+
+13. Vea el circuito de la figura 8-74:
+a. Convierta la fuente de corriente y el resistor de 330ohm en su fuente de voltaje equivalente.
+b. Encuentre la corriente I a través de RL. 
+c. Determine el voltaje Vab.
+
+![image](https://user-images.githubusercontent.com/84357979/125405346-400dde80-e37d-11eb-9b30-5bf6f64e0f3a.png)
+
+15. Encuentre el voltaje V2 y la corriente I1 para el circuito de la figura 8-76.
+
+![image](https://user-images.githubusercontent.com/84357979/125405429-59168f80-e37d-11eb-9de5-6c2568b35e0d.png)
+
+17. Para el circuito de la figura 8-78 convierta la fuente de corriente y el resistor de 2.4 kohm en una fuente de voltaje y calcule el voltaje Vab y la corriente I3.
+
+![image](https://user-images.githubusercontent.com/84357979/125405453-616eca80-e37d-11eb-914a-4a02c5e86bfd.png)
+
+19. Escriba las ecuaciones de corriente de rama para que el circuito de la figura 8-79 y encuentre las corrientes de rama mediante determinantes.
+
+![image](https://user-images.githubusercontent.com/84357979/125405490-69c70580-e37d-11eb-9734-1c16da89cfa8.png)
+
+21) Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-81 y encuentre la corriente I2.
+
+![image](https://user-images.githubusercontent.com/84357979/125405515-7186aa00-e37d-11eb-80e5-6ba348ba7bfc.png)
+
+23) Vea el circuito de la figura 8-83:
+a. Escriba las ecuaciones de corriente de rama
+b. Encuentre la corriente I2
+c. Determine el voltaje de Vab
+
+![image](https://user-images.githubusercontent.com/84357979/125405549-79464e80-e37d-11eb-9c65-c430562d274a.png)
+
+8-5. Analisis de mallas (lazos)
+
+25. Escriba las ecuaciones de malla para el circuito que se muestra en la figura 8-79 y encuentre las corrientes de lazo.
+
+![image](https://user-images.githubusercontent.com/84357979/125405600-85321080-e37d-11eb-8cca-45eed11076da.png)
+
+27. Utilice el análisis de malla para encontrar la corriente I2 en el circuito de la figura 8-81.
+
+![image](https://user-images.githubusercontent.com/84357979/125405642-8c591e80-e37d-11eb-8765-ac9ecbb83f3d.png)
+
+29. Utilice el análisis de malla para encontrar las corrientes de lazo en el circuito de la figura 8-84. Use sus resultados para determinar I y Vab.
+
+![image](https://user-images.githubusercontent.com/84357979/125405665-92e79600-e37d-11eb-9454-49f87d11c890.png)
+
+31) Escriba las ecuaciones de malla para la red de la figura 8-86. Encuentre las corrientes de lazo con determinantes.
+
+![image](https://user-images.githubusercontent.com/84357979/125405685-98dd7700-e37d-11eb-8462-5d7cb9e0e3e8.png)
+
+33) Escriba las ecuaciones de Nodos para el circuito de la figura 8-88. Y encuentre los voltajes en los nodos.
+
+![image](https://user-images.githubusercontent.com/84357979/125405708-9f6bee80-e37d-11eb-9c68-2ee2cda7f606.png)
+
+
+35. Repita el problema 33 para el circuito de la figura 8-90
+
+![image](https://user-images.githubusercontent.com/84357979/125405729-a561cf80-e37d-11eb-95ed-bac07b6ee9cd.png)
+
+
+37. Escriba las ecuaciones de nodos para el circuito de la figura 8-86 y encuentre V6Ω.
+
+![image](https://user-images.githubusercontent.com/84357979/125405754-ac88dd80-e37d-11eb-8d29-730fd29634fa.png)
+
+39. Convierta cada una de las redes Δ de la figura 8-92 en su configuración Y equivalente.
+
+![image](https://user-images.githubusercontent.com/84357979/125405774-b4e11880-e37d-11eb-8d7b-ef4669bb5f8a.png)
+
+41.Convierta cada una de las redes Y de la figura 8-94 en su configuración equivalente.
+
+![image](https://user-images.githubusercontent.com/84357979/125405809-bdd1ea00-e37d-11eb-99fe-c3b2bb4b2d5c.png)
+![image](https://user-images.githubusercontent.com/84357979/125405815-c0ccda80-e37d-11eb-974f-39ff40386441.png)
+
+43.Utilice las conversiones -Y o Y-, para encontrar la corriente I para el circuito de la figura 8-96.
+
+![image](https://user-images.githubusercontent.com/84357979/125405950-e659e400-e37d-11eb-9951-1537477595d3.png)
+
+
+45.Repita el problema 43 para el circuito de la figura 8-98.
+
+![image](https://user-images.githubusercontent.com/84357979/125405967-eeb21f00-e37d-11eb-9825-3be99fcdb24b.png)
+
+
+47.Vea el circuito puente de la figura 8-100: 
+a. ¿El puente está balanceado? Explique. 
+b. Escriba las ecuaciones de malla. 
+c. Calcule la corriente a través de R 5. 
+d. Determine el voltaje en R 5.
+
+
+![image](https://user-images.githubusercontent.com/84357979/125405992-f5409680-e37d-11eb-92f2-69e0b4793a3b.png)
+
+
+49.En el circuito puente de la figura 8-102 encuentre la corriente a través de cada resistor.
+
+![image](https://user-images.githubusercontent.com/84357979/125406022-fc67a480-e37d-11eb-975d-e85f58182ccb.png)
+
+
+
+
+
 
 
 **4.VIDEO**
